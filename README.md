@@ -10,7 +10,7 @@ Bu depo, Lineer Cebir dersi proje gereksinimleri kapsamında; videodaki hareketl
 
 ## 📌 **Proje Özeti**
 
-
+![Proje Görseli](ornek_goruntu.png)
 
 Projede, futbol maçına ait ardışık görüntü kareleri kullanılarak, hareketli nesnelerin arka plandan (saha ve tribün) ayrıştırılması işlemi gerçekleştirilmiştir. İşlemler Google Colab ortamında, Python dili kullanılarak yapılmış olup, temelinde matris farkı hesaplamaları ve morfolojik görüntü işleme teknikleri yatmaktadır.
 
